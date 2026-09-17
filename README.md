@@ -9,7 +9,7 @@ This project was made possiblle thanks to Turbowarp and Turbowarp Packager.
 
 ## [Direct Link](https://nyzonix.github.io/GraveOfTheFireflies-EnvironmentNight/)
 
-# <img src="logo.png" title="logo" width=25 style="border-radius: 5px;" />
+# <img src="logo.png" title="logo" width=695 style="border-radius: 5px;" />
 
 
 
