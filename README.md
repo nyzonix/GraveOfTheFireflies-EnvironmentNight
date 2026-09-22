@@ -5,7 +5,7 @@ Just some project i made for fun, u can relax, watching the Grave of the Firefli
 > Some browsers are unable to  reproduce sounds without interaction  so make sure u click to let the music start.
 
 ## Technologies
-This project was made possiblle thanks to Turbowarp and Turbowarp Packager.
+This project was made using turbowarp and turbowarp packager.
 
 ## [Direct Link](https://nyzonix.github.io/GraveOfTheFireflies-EnvironmentNight/)
 
